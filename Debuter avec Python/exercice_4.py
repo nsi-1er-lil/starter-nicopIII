@@ -19,7 +19,7 @@ def perimetre(x):
 
 print("Le perimetre du carre, calculer avec une fonction, en utilisant", x, "comme longueure d'un cote, est de", perimetre(x))
 
-# Exercice 4 Question 7
+# Exercice 4 Question 8
 def surface(x):
     return x ** 2 
 
