@@ -1,7 +1,7 @@
 import random
 
 
-#Trouver l'aire et le perimetre d'un carre
+# Exercice 4 Question 6
 c = random.randint(1, 10)
 P = c * 4
 A = c ** 2 
@@ -11,7 +11,7 @@ print("Le perimetre du carre est de", P)
 print("L'aire du carre est de", A )
 print("L'aire du carre est superieur a 5 ?", b)
 
-# Fonction pour calculer le perimetre d'un carre
+# Exercice 4 Question 7
 x = random.randint(1, 10)
 def perimetre(x):
     return x * 4 
@@ -19,7 +19,7 @@ def perimetre(x):
 
 print("Le perimetre du carre, calculer avec une fonction, en utilisant", x, "comme longueure d'un cote, est de", perimetre(x))
 
-#Fonction pour calculer l'air d'un carre
+# Exercice 4 Question 7
 def surface(x):
     return x ** 2 
 
