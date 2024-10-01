@@ -1,4 +1,4 @@
-# exo 1:
+# exercice 1:
 
 import random
 taille = random.randit(0,270)
